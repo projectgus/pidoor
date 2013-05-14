@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 14 May 2013 21:35:07 EST
+
+BeginCmp
+TimeStamp = /519219BF;
+Reference = C1;
+ValeurCmp = 4.7uF;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /519214AA;
+Reference = P1;
+ValeurCmp = CONN_13X2;
+IdModule  = pin_array_13x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5192185B;
+Reference = P2;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /51921655;
+Reference = REG1;
+ValeurCmp = LM1117;
+IdModule  = SOT223;
+EndCmp
+
+EndListe
